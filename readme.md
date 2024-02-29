@@ -1,6 +1,6 @@
 # ChronoGate
 
-ChronoGate is a high-performance time-travel-inspired gateway designed for seamless and secure online exploration.
+ChronoGate is a high-performance time-travel-inspired proxy designed for seamless and secure online exploration.
 
 ## Features
 
